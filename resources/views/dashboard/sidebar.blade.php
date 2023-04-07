@@ -64,7 +64,7 @@
           <li class="nav-item">
             <a class="nav-link" href="/kategori/">
               <span data-feather="file"></span>
-              Kategori 
+              Kategori
             </a>
           </li>
           <li class="nav-item">
