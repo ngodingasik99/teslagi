@@ -5,7 +5,7 @@
           <th scope="col">Nama Kategori</th>
           <th scope="col">Foto</th>
           <th scope="col">Aksi</th>
-        </tr>
+        </tr> 
       </thead>
       <tbody>
         <tr>
