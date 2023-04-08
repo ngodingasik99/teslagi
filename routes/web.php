@@ -13,6 +13,12 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+<<<<<<< HEAD
 Route::get('/', function () {
     return view('index');
+=======
+Route::get('/dashboard', function () {
+    return view('dashboard/sidebar');
+>>>>>>> 3b5f8607dadf274e480dbf011ed8866b0525c46e
 });
+

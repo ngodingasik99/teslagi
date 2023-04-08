@@ -1,6 +1,6 @@
 <table class="table-warning">
     <thead>
-        <tr>
+        <tr> 
           <th scope="col">No</th>
           <th scope="col">Nama Kategori</th>
           <th scope="col">Foto</th>
